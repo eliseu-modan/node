@@ -1,4 +1,4 @@
-const axios = require('axios');
+const axios = require('../../02-bases/node_modules/axios/index.d.cts');
 
 
 const httpClientPlugin = {
